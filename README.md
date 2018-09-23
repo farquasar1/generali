@@ -1,0 +1,2 @@
+# generali
+Workshop deep learning
